@@ -32,7 +32,7 @@ Open a terminal and
 
 #### Local notebook
 
-Get started on this RAMP with the [notebook](starting_kit.ipynb).
+Get started on this RAMP with the [notebook](starting_kit.html).
 
 To test the starting-kit, run
 
