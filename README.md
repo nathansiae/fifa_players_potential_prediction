@@ -8,13 +8,16 @@
   </tr>
 </table> 
 </div>
-Student Proposed Data Challenge in Data Camp Course of Master Data Science at University Paris-Saclay
 
-Students: Jiabin CHEN, Qin WANG, Chuanyuan QIAN
+*Student Proposed Data Challenge in Data Camp Course of Master Data Science at University Paris-Saclay*
 
-In the hospitality industry, which includes lodging, event planning, transportation, travelling or cuisine line, booking helps to provide the right product to right customer at the right time. Despite its benefits, booking cancellation option puts the services at risk. In the case of hotels, vacant capacity may happen when a guest cancel a booking or doesn't show up. While cancellations can occur due to reasonable causes like bad weather, working schedule changes, illness, etc, nowadays a great number of them happens because people search for best deals. Although, hotels can use overbooking or cancellation policy, overbooking gives a bad experience by not allowing a customer to check in, while cancellation policy can reduce the number of bookings and reduce the income.
+*Students: Jiabin CHEN, Qin WANG, Chuanyuan QIAN*
 
-To overcome this problem, we propose using machine learning to predict the probability of cancellation for each reservation. This prediction helps the management decision, improve the experience of customers and the hotel's revenue. The model can be retrained regularly as the data accumulates.
+The challenge is for football⚽️⚽️⚽️ enthusiasts who love data science and FIFA game🎮🎮🎮. 
+
+*Why we choose this dataset as a data challenge ?* One of the most important tasks for a football club manager is to discover talent players, especially young players with high career potential. We want to build a regression model to predict the player's potential based on his statistical data in FIFA20 Game. Insights and correlations among players' potential, age and skills rating can be derived from the dataset. Indeed, even though some of features values are virtual and given by experts based on performance in reality over past few years, we can extend easily our regression model once we have collected some realistic data, such as the number of goals, assists, win games, etc. We have derived summary statistics and provided a very simple baseline in this project.
+
+![FIFA20](https://www.fifplay.com/img/public/fifa-20-logo.png)
 
 #### Set up
 
@@ -35,5 +38,5 @@ To test the starting-kit, run
 
 
 ```
-ramp_test_submission --quick-test
+ramp_test_submission --submission starting_kit
 ```
