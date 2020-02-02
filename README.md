@@ -9,9 +9,9 @@
 </table> 
 </div>
 
-*Student Proposed Data Challenge in Data Camp Course of Master Data Science at University Paris-Saclay*
+**Student Proposed Data Challenge in Data Camp Course of Master Data Science at University Paris-Saclay**
 
-*Students: Jiabin CHEN, Qin WANG, Chuanyuan QIAN*
+**Students: Jiabin CHEN, Qin WANG, Chuanyuan QIAN**
 
 The challenge is for football⚽️⚽️⚽️ enthusiasts who love data science and FIFA game🎮🎮🎮. 
 
