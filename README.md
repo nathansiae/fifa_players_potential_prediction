@@ -1,4 +1,13 @@
-# fifa_players_potential_prediction
+# Fifa_Players_Potential_Prediction
+<div style="text-align: left;">
+<table style="width:100%; background-color:transparent;">
+  <tr style="background-color:transparent;">
+    <td style="background-color:transparent;"><a href="http://www.datascience-paris-saclay.fr">
+<img border="0" src="http://project.inria.fr/saclaycds/files/2017/02/logoUPSayPlusCDS_990.png" width="90%"> </td>
+     
+  </tr>
+</table> 
+</div>
 Student Proposed Data Challenge in Data Camp Course of Master Data Science at University Paris-Saclay
 
 Students: Jiabin CHEN, Qin WANG, Chuanyuan QIAN
